@@ -1,0 +1,42 @@
+/* This is a Comment - Ray Arbizu */
+
+body
+{
+    background-image: linear-gradient(#164863, #DDF2FD);
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    color: #9BBEC8;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2
+{
+    color: #DDF2FD;
+}
+
+h3
+{
+    color: #DDF2FD;
+}
+
+img
+{
+    align-content: center;
+}
+
+ol {
+    background: #164863;
+    padding: 20px;
+}
+
+ol li {
+    color: #ECF4D6;
+    padding: 5px;
+    background: #427D9D;
+    margin-left: 35px;
+}
+
